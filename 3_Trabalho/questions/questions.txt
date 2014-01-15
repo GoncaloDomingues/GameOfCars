@@ -1,0 +1,62 @@
+?C Quando o piso está escorregadio?
+A - A distância de travagem diminui e a aderência aumenta.
+B - A distância de travagem diminui e a aderência diminui.
+C - A distância de paragem aumenta e a aderência diminui.
+D - A distância de segurança diminui e a aderência aumenta.
+
+?A É permitido transitar numa localidade a mais de 50 Km/h?
+A - Não.
+B - Sim, porque a via é plana, e não há peões por perto.
+C - Sim, porque há boa visibilidade.
+
+?N É permitido transitar numa localidade a mais de 50 Km/h?
+
+?C O limite máximo de velocidade dentro das localidades é: 
+A - 80 Km/h.
+B - 60 Km/h.
+C - 50 Km/h.
+
+?N É permitido estacionar em segunda fila?
+
+?C É permitido estacionar em segunda fila?
+A - Sim, desde que deixe os "quatro piscas" ligados.
+B - Sim, desde que o estacionamento seja por pouco tempo.
+C - Não, não é permitido.
+D - Sim, se esses veículos ficarem "à porta" do trabalho dos seus condutores.
+
+?Y A velocidade máxima numa via não urbana pode ser de 50 km/h?
+
+?B A velocidade máxima numa via não urbana pode ser de 50 km/h?
+A - Não.
+B - Sim.
+
+?C O condutor que sai de um prédio particular:
+A - Pode avançar.
+B - Deve ceder a passagem apenas aos veículos com motor.
+C - Deve ceder a passagem aos veículos sem motor.
+
+?N O condutor que sai de um prédio particular deve ceder a passagem apenas aos veículos com motor.
+
+?Y O condutor que sai de um prédio particular deve ceder a passagem aos veículos sem motor.
+
+?B O sinal de regulamentação tem formato octogonal porque:
+A - desta forma economiza-se material.
+B - desta forma os condutores conseguem mais facilmente identificar o sinal.
+C - é um sinal de cedência de passagem.
+
+?A O condutor para travar com o motor deve:
+A - Engrenar uma mudança de força em andamento.
+B - Carregar no travão de serviço, obrigando assim o motor a travar.
+C - Usar o motor de arranque para auxiliar a travagem.
+D - Desligar o motor, e deixar o veículo transitar com uma mudança engrenada.
+
+?C Em auto-estrada sei que:
+A - Só é permitido fazer marcha atrás na berma, e pelo espaço estritamente necessário.
+B - A marcha atrás só é permitida, se na faixa de rodagem existirem duas ou mais filas de trânsito no mesmo sentido.
+C - É proibido fazer marcha atrás.
+
+?A Ao ser ultrapassado, devo:
+A - Manter a velocidade, e chegar-me o mais possível à direita.
+B - Parar.
+C - Reduzir a velocidade.
+

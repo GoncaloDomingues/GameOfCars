@@ -1,0 +1,16 @@
+?Y Quando o piso está escorregadio a distância de paragem aumenta e a aderência diminui?
+?N Quando o piso está escorregadio a distância de travagem diminui e a aderência aumenta?
+?N Quando o piso está escorregadio a distância de travagem diminui e a aderência diminui?
+?N Quando o piso está escorregadio a distância de segurança diminui e a aderência aumenta?
+?N É permitido transitar numa localidade a mais de 50 Km/h?
+?Y O limite máximo de velocidade dentro das localidades é 50 Km/h? 
+?N É permitido estacionar em segunda fila?
+?Y A velocidade máxima numa via não urbana pode ser de 50 km/h?
+?N O condutor que sai de um prédio particular deve ceder a passagem apenas aos veículos com motor?
+?Y O condutor que sai de um prédio particular deve ceder a passagem aos veículos sem motor?
+?Y O sinal de regulamentação tem formato octogonal porque desta forma os condutores conseguem mais facilmente identificar o sinal?
+?Y Em auto-estrada é proibido fazer marcha atrás?
+?N Ao ser ultrapassado, devo reduzir a velocidade?
+?Y Ao ser ultrapassado, devo manter a velocidade, e chegar-me o mais possível à direita?
+
+
